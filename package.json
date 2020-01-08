@@ -1,0 +1,22 @@
+{
+  "name": "spinapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/spinapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/spinapi/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/spinapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
